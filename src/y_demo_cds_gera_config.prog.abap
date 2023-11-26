@@ -45,4 +45,4 @@ start-of-selection.
 
     commit work and wait.
 
-    message 'Processamento realizado com sucesso' type 'S'.
+    message |{ lines( lt_ydbt_demcds_conf ) } registros gerados.| type 'S'.
