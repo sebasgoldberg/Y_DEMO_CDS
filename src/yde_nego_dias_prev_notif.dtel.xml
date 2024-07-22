@@ -15,9 +15,9 @@
     <SCRTEXT_M>Dias previos notif.</SCRTEXT_M>
     <SCRTEXT_L>Dias previos realização notificação</SCRTEXT_L>
     <DTELMASTER>P</DTELMASTER>
-    <DATATYPE>INT1</DATATYPE>
-    <LENG>000003</LENG>
-    <OUTPUTLEN>000003</OUTPUTLEN>
+    <DATATYPE>INT2</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
    </DD04V>
   </asx:values>
  </asx:abap>
