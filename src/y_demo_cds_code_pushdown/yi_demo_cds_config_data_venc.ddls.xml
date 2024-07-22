@@ -6,6 +6,7 @@
     <DDLNAME>YI_DEMO_CDS_CONFIG_DATA_VENC</DDLNAME>
     <DDLANGUAGE>P</DDLANGUAGE>
     <DDTEXT>Configuração data de vencimento objetivo para data do dia</DDTEXT>
+    <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>

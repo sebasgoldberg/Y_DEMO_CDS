@@ -6,6 +6,7 @@
     <DDLNAME>YI_DEMO_CDS_DOCS_NOTIF_NA_DATA</DDLNAME>
     <DDLANGUAGE>P</DDLANGUAGE>
     <DDTEXT>CDS Demo: Dados documentos a serem notificadas numa data.</DDTEXT>
+    <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>
